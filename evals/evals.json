@@ -1,0 +1,23 @@
+{
+  "skill_name": "storm-research",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我用 STORM 方法快速研究一下 AI 代码编辑器对独立开发者的真实价值。我是一个 solo founder，想决定要不要把工作流迁到 Cursor/Claude Code 这类工具。",
+      "expected_output": "Should produce a multi-perspective briefing with practitioner, academic/evidence, skeptic, economist, and historian or domain-adapted perspectives; include contradictions, reliability-ranked findings, actionable advice for a solo founder, and peer review.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我要写一篇关于低空经济的公众号文章，不想只写政策利好。帮我从多个角度找出真正有争议和有价值的点。",
+      "expected_output": "Should use the skill to produce an article-oriented research briefing, explicitly mapping policy/market/operations/skeptic/historical contradictions, blind spots, and article angles rather than a generic summary.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "给我一套可以复制到 Claude 里的提示词，用来研究任何复杂话题。最好是 STORM 那种多专家视角和自我审稿。",
+      "expected_output": "Should enter prompt-pack mode and provide four reusable prompts: multi-perspective scan, contradiction map, synthesis briefing, and peer review, with placeholders for topic, role, depth, and sources.",
+      "files": []
+    }
+  ]
+}
